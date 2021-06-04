@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(166, 197, 255);
+    color: black;
+}
+
+.heading
+{
+    font-size: large;
+    width: 70%;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    font-size: 15px;
+}
+
+label
+{
+    font-size: medium;
+}
+
+#camera
+{
+    border: 2px dashed whitesmoke;
+    background-color: wheat;
+    height: 300px;
+    width: 350px;
+}
